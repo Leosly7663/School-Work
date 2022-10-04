@@ -1,0 +1,15 @@
+/// source code saved as Lab1.c
+#include<stdio.h>
+
+int main(void){
+    printf("Hello, this is a test program!");
+    return 0;
+}
+///
+
+in command line I ran:
+gcc Lab1.c -o Lab1.exe
+./Lab1.exe
+
+and my output was:
+Hello, this is a test program!
