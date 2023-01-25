@@ -6,6 +6,9 @@ int main(void){
     int radius=0, circumference=0, area=0;
     float pi=3.14;
 
+
+    
+
     // get user input for radius
     printf("What is your desired radius in m \n");
     scanf("%d",&radius);
