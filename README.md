@@ -1,4 +1,4 @@
-# Multilingual Project Repository Overview
+# Repository Overview
 
 Welcome to my project repository! This repository showcases a diverse set of projects implemented in both C and Python, highlighting my skills in various programming paradigms. Below are brief descriptions of the projects:
 
